@@ -15,3 +15,5 @@ install it via pip:
 or via your package manager, eg:
 
 <code>sudo apt-get install python-xlib</code>
+
+**Doesn't work on windows. There are already many out there**
