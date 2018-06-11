@@ -18,4 +18,6 @@ or via your package manager, eg:
 
 **Doesn't work on windows. There are already many out there**
 
-##TODO add mail support##
+##TODO add send to mail support##
+
+check the mail branch
