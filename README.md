@@ -2,6 +2,8 @@
 
 **DISCLAIMER: I am not responsible for anything evil you do with this thing.**
 
+**Read the LICENSE if you're not convinced**
+
 usage: python keylogger.py [cancel_key] [keylogger_clean]
 
 i.e add 'cancel_key' without quotes if you want to use a custom cancel key because ctrl+c doesn't work sometimes (set it in the keylogger.py)
